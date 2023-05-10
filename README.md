@@ -156,5 +156,5 @@ Pythia | Dolly | Lit-LLaMA | Open Assistant
 
 **Research Use LLMs**
 
-LLaMa | Vicuna | Alpaca-LoRA | Baize | GPT4All
+LLaMa | Vicuna | Alpaca-LoRA | Baize | Koala | GPT4All
 
