@@ -152,9 +152,6 @@ We believe that by doing this we will create a revolution in innovation in langu
 
 **Commercial Use LLMs**
 
-Pythia | Dolly | Lit-LLaMA | Open Assistant 
+Pythia | Dolly | Lit-LLaMA |Open Assistant (Pythia family) | GPT-J-6B | GPT-NeoX | 
 
-**Research Use LLMs**
-
-LLaMa | Vicuna | Alpaca-LoRA | Baize | Koala | GPT4All
-
+Bloom | StableLM-Alpha | 
