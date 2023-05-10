@@ -109,7 +109,6 @@ The goal is simple - be the best instruction tuned assistant-style language mode
 We believe that by doing this we will create a revolution in innovation in language. In the same way that stable-diffusion helped the world make art and images in new ways we hope Open Assistant can help improve the world by improving language itself.
 
 - GitHub: [LAION-AI/Open-Assistant: OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.](https://github.com/LAION-AI/Open-Assistant)
-- Hugging Face: OpenAssistant (OpenAssistant) (huggingface.co)
 - Website: [Open Assistant](https://open-assistant.io/chat)
 
 ****Replit-Code (Replit)****
