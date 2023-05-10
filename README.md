@@ -152,6 +152,6 @@ We believe that by doing this we will create a revolution in innovation in langu
 
 **Commercial Use LLMs**
 
-Pythia | Dolly |Open Assistant (Pythia family) | GPT-J-6B | GPT-NeoX | 
+Pythia | Dolly | Open Assistant (Pythia family) | GPT-J-6B | GPT-NeoX | 
 
 Bloom | StableLM-Alpha | FastChat-T5 |
