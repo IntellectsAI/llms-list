@@ -58,12 +58,6 @@ This repository contains a curated (incomplete) list of open-source and finetune
 
 - GitHub: [Lightning-AI/lit-llama: Implementation of the LLaMA language model based on nanoGPT. Supports quantization, LoRA fine-tuning, pre-training. Apache 2.0-licensed. (github.com)](https://github.com/Lightning-AI/lit-llama)
 
-****OpenAssistant Models****
-> Open Assistant is a project meant to give everyone access to a great chat based large language model.
-We believe that by doing this we will create a revolution in innovation in language. In the same way that stable-diffusion helped the world make art and images in new ways we hope Open Assistant can help improve the world by improving language itself.
-
-- GitHub: [LAION-AI/Open-Assistant: OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.](https://github.com/LAION-AI/Open-Assistant)
-- Website: [Open Assistant](https://open-assistant.io/chat)
 
 ****StableVicuna****
 
@@ -111,6 +105,12 @@ The goal is simple - be the best instruction tuned assistant-style language mode
 - Blog post: [Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
 - Hugging Face: [databricks (Databricks) (huggingface.co)](https://huggingface.co/databricks)
 
+****OpenAssistant Models****
+> Open Assistant is a project meant to give everyone access to a great chat based large language model.
+We believe that by doing this we will create a revolution in innovation in language. In the same way that stable-diffusion helped the world make art and images in new ways we hope Open Assistant can help improve the world by improving language itself.
+
+- GitHub: [LAION-AI/Open-Assistant: OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.](https://github.com/LAION-AI/Open-Assistant)
+- Website: [Open Assistant](https://open-assistant.io/chat)
 
 ****Replit-Code (Replit)****
 
