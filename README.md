@@ -31,14 +31,6 @@ This repository contains a curated (incomplete) list of open-source and finetune
 
 - Paper: [2304.01196.pdf (arxiv.org)](https://arxiv.org/pdf/2304.01196.pdf)
 
-****GPT4All****
->GTP4All is an ecosystem to train and deploy powerful and customized large language models that run locally on consumer grade CPUs.
-The goal is simple - be the best instruction tuned assistant-style language model that any person or enterprise can freely use, distribute and build on.
->
-- GitHub: [nomic-ai/gpt4all: gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue (github.com)](https://github.com/nomic-ai/gpt4all)
-
-- GitHub: [nomic-ai/pyllamacpp: Official supported Python bindings for llama.cpp + gpt4all (github.com)](https://github.com/nomic-ai/pyllamacpp)
-
 ****Koala****
 
 - GitHub: [EasyLM/koala.md at main · young-geng/EasyLM (github.com)](https://github.com/young-geng/EasyLM/blob/main/docs/koala.md)
@@ -82,6 +74,14 @@ The goal is simple - be the best instruction tuned assistant-style language mode
 - GitHub: [Stability-AI/StableLM: StableLM: Stability AI Language Models (github.com)](https://github.com/stability-AI/stableLM/)
 - Hugging Face: [Stablelm Tuned Alpha Chat — a Hugging Face Space by stabilityai](https://huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat)
 
+****GPT4All****
+>GTP4All is an ecosystem to train and deploy powerful and customized large language models that run locally on consumer grade CPUs.
+The goal is simple - be the best instruction tuned assistant-style language model that any person or enterprise can freely use, distribute and build on.
+>
+- GitHub: [nomic-ai/gpt4all: gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue (github.com)](https://github.com/nomic-ai/gpt4all)
+
+- GitHub: [nomic-ai/pyllamacpp: Official supported Python bindings for llama.cpp + gpt4all (github.com)](https://github.com/nomic-ai/pyllamacpp)
+
 ****GPT-J (EleutherAI)****
 
 - GitHub: [https://github.com/kingoflolz/mesh-transformer-jax/#gpt-j-6b](https://github.com/kingoflolz/mesh-transformer-jax/#gpt-j-6b)
@@ -103,6 +103,14 @@ The goal is simple - be the best instruction tuned assistant-style language mode
 - GutHub: [dolly/data at master · databrickslabs/dolly (github.com)](https://github.com/databrickslabs/dolly/tree/master/data)
 - Blog post: [Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
 - Hugging Face: [databricks (Databricks) (huggingface.co)](https://huggingface.co/databricks)
+
+****OpenAssistant Models****
+> Open Assistant is a project meant to give everyone access to a great chat based large language model.
+We believe that by doing this we will create a revolution in innovation in language. In the same way that stable-diffusion helped the world make art and images in new ways we hope Open Assistant can help improve the world by improving language itself.
+
+- GitHub: [LAION-AI/Open-Assistant: OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.](https://github.com/LAION-AI/Open-Assistant)
+- Hugging Face: OpenAssistant (OpenAssistant) (huggingface.co)
+- Website: [Open Assistant](https://open-assistant.io/chat)
 
 ****Replit-Code (Replit)****
 
@@ -139,3 +147,14 @@ The goal is simple - be the best instruction tuned assistant-style language mode
 ****Flan-Alpaca****
 
 - GitHub: [declare-lab/flan-alpaca: This repository contains code for extending the Stanford Alpaca synthetic instruction tuning to existing instruction-tuned models such as Flan-T5. (github.com)](https://github.com/declare-lab/flan-alpaca)
+
+************************************************************************************************************
+
+**Commercial Use LLMs**
+
+Pythia | Dolly | Lit-LLaMA | Open Assistant 
+
+**Research Use LLMs**
+
+LLaMa | Vicuna | Alpaca-LoRA | Baize | GPT4All
+
