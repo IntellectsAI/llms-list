@@ -1,5 +1,7 @@
 # ****List of Open-Source Finetuned Large Language Models****
 
+This repository contains a curated (incomplete) list of open-source and finetuned Large Language Models. 
+
 ****LLaMA (Meta)****
 
 • LLaMA Website: [Introducing LLaMA: A foundational, 65-billion-parameter language model (facebook.com)](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
